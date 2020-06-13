@@ -10,11 +10,20 @@ The link to the recorded video is here: https://www.youtube.com/watch?v=wc5udcb8
 
 For more Phippy, visit https://phippy.io
 
+********************************************************
+
 Writing and design modified by me (with permission):
+
 Twitter: @FrankLesniak https://twitter.com/FrankLesniak
+
 LinkedIn: https://linkedin.com/in/flesniak
 
+********************************************************
+
 Story originally written by Matt Butcher
+
 Illustrations by Bailey Beougher
+
 Original design by Karen Chu
+
 Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0). See https://phippy.io
